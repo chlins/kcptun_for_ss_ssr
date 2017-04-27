@@ -1,10 +1,10 @@
 #! /bin/bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
-#===============================================================================================
+#======================================== =======================================================
 #   System Required:  CentOS Debian or Ubuntu (32bit/64bit)
 #   Description:  A tool to auto-compile & install KCPTUN for SS/SSR on Linux
-#   Intro: https://github.com/onekeyshell/kcptun_for_ss_ssr/issues
+#   Intro: https://github.com/jlzsss/kcptun_for_ss_ssr/issues
 #===============================================================================================
 version="2.0.0"
 if [ $(id -u) != "0" ]; then
