@@ -42,7 +42,7 @@ ssr_config="/usr/local/shadowsocksR/shadowsocksR.json"
 kcptun_config="/usr/local/kcptun/config.json"
 # Check if user is root
 
-contact_us="https://github.com/onekeyshell/kcptun_for_ss_ssr/issues"
+contact_us="https://github.com/jlzsss/kcptun_for_ss_ssr/issues"
 fun_clangcn(){
     local clear_flag=""
     clear_flag=$1
